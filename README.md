@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">A passionate BI and Data Analyst from Brazil</h3>
+<h3 align="center">BI and Data Analyst from Brazil</h3>
 
-- 🌱 I’m currently learning **Python and SQL**
-
-- 💬 Ask me about **Business Intelligence, Data Analysis**
+- 🌱 Business Intelligence Analyst passionate about transforming raw data into meaningful insights that drive smart and strategic     decision-making. I specialize in creating intuitive dashboards, automating processes, and designing efficient data solutions using Power BI, Excel, SQL, and Python. My focus is to connect business needs with data-driven solutions, helping teams make decisions based on reliable and well-structured information. Nowadays, i’m currently learning more about **Python and SQL**, and also improving my design skills to apply in BI solutions. 
 
 - 📫 How to reach me **coutodebrito.arthur@gmail.com**
 
